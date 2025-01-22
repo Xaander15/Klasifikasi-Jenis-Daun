@@ -1,12 +1,5 @@
 # Klasifikasi-Gambar-Daun-Untuk-Identifikasi-Jenis-Tanaman-menggunakan-Metode-CNN
 
-### **Anggota Kelompok**
-- Muhamad Ramadani (222102001)
-- Salma Saffana Rizqi (222102031)
-- Erika Mellyana Nur Fajrianti (222102019)
-
----
-
 ## **Deskripsi**
 Project ini bertujuan untuk mengidentifikasi jenis tanaman berdasarkan gambar daunnya menggunakan metode **Convolutional Neural Network (CNN)**. Dataset yang digunakan terdiri dari 9 jenis daun tumbuhan, yaitu:  
 - **Belimbing Wuluh**  
